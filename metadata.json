@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Phantom Stock-Out Detector",
+  "description": "Intelligent retail decision-support system to detect suspicious phantom inventory stock-outs, explain causes, and prioritize physical verification queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
